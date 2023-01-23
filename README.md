@@ -5,6 +5,8 @@
     
       ![image](https://user-images.githubusercontent.com/111221588/212976131-fca9e1d8-646b-46b5-979e-1450ea4fd3fc.png)
       
+      Docker Image Name: darshanrajsamuvel/ocean:latest
+      
       Configuration Settings
       
       http://54.167.47.81:8080/job/Reactjs_demo/configure
