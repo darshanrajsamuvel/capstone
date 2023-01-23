@@ -1,5 +1,5 @@
                                                        **CAPSTONE PROJECT**
-   Using the given repo I couldnt create the Docker Compose So I have created own repo and got code from the Internet
+   By using the given repo I couldnt create the Docker Compose, the docker container keep on EXITING So I have created new repo in my github and copied source code from the Internet
    
     JENKINS Login Page
     
