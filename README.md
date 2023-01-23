@@ -63,7 +63,7 @@ AWS EC2 Screenshot
 
 AWS Security Groups
 
-![image](https://user-images.githubusercontent.com/111221588/212977751-31e2004a-904d-449a-8238-d5ca227f558f.png)
+![image](https://user-images.githubusercontent.com/111221588/214018219-1cc2a2a6-4d6f-410a-9a6b-0cd206316ec8.png)
 
 
 Docker HuB repo with Image Tags
