@@ -57,7 +57,7 @@ pipeline {
 }
 
 
-AWS EC2 Scrrenshot
+AWS EC2 Screenshot
 
 ![image](https://user-images.githubusercontent.com/111221588/212977569-b1d2b931-93df-4717-8a54-913eb5943007.png)
 
